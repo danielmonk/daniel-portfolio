@@ -88,7 +88,7 @@ const PortfolioSite = () => {
           </div>
 
           <h1 className="text-5xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
-            Daniel M
+            Daniel Monk
           </h1>
           <p className="text-xl text-neutral-600 flex items-center justify-center gap-2">
             <Code className="text-indigo-500" />
